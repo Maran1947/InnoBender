@@ -34,11 +34,11 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Learn together, fun together, achieve goal together and do whatever you want"
+            android:text="Learn, Grow and Compete with Your Buddy Here "
             android:layout_gravity="center"
-            android:textSize="18sp"
-            android:paddingLeft="48dp"
-            android:paddingRight="48dp"
+            android:textSize="22sp"
+            android:paddingLeft="75dp"
+            android:paddingRight="75dp"
             android:padding="18dp"
             android:gravity="center"
             />
