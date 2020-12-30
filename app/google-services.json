@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477281986256",
+    "project_id": "innobender",
+    "storage_bucket": "innobender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477281986256:android:c534eddb99d25acfbc20d5",
+        "android_client_info": {
+          "package_name": "com.example.innobender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477281986256-b4c21ll97fs5gqeaapd6kvtbs5t1skgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMiRiQ6jm8d5k55iEaqD9EolqaFZrRyP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477281986256-b4c21ll97fs5gqeaapd6kvtbs5t1skgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
